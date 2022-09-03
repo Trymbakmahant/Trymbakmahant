@@ -2,9 +2,6 @@
 
 
 
-- 🔭 I’m currently working on  Smiley Drinks  as a Full Stack developer
-- 🌱 I’m currently learning  MERN Stack
-- 👯 I’m looking to collaborate on Attendance System which is a MERN Stack Project
 - 📫 How to reach me: https://www.linkedin.com/in/trymbak-mahant-2652701ba/
 
 
