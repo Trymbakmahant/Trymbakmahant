@@ -17,5 +17,5 @@
 
 
 # GitHub Activity Graph:
-![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Trymbakmahant&hide_border=true&theme=material-palenight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
