@@ -16,6 +16,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trymbakmahant&theme=radical" width=400 align="center" />
 
 
-# GitHub Activity Graph:
+# GitHub Medals:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Trymbakmahant)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
