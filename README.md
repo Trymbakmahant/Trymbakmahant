@@ -1,22 +1,25 @@
-### Hi there 👋
+<p > <h1 align="center"> # Hi there 👋 </h1> </p>
+
+<p align="left"> <a href="https://twitter.com/TrymbakMahant" target="blank"><img src="https://img.shields.io/twitter/follow/TrymbakMahant?logo=twitter&style=for-the-badge" alt="TrymbakMahant" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Trymbakmahant&label=Profile%20views&color=0e75b6&style=flat" alt="Trymbakmahant" /> </p>
 
 
-
-- 📫 How to reach me: https://www.linkedin.com/in/trymbak-mahant-2652701ba/
-
-
-
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=Trymbakmahant&theme=onedark&row=1&column=8">
+</p>
 
 
 # My Github Stats
-<img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api?username=Trymbakmahant&theme=highcontrast&show_icons=true&count_private=true" />
-<img class="img" style="height:auto; width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trymbakmahant&theme=highcontrast&layout=compact" />
+
+[![Trymbak GitHub stats](https://github-readme-stats.vercel.app/api?username=Trymbakmahant&show_icons=true&theme=react&text_color=fff&border_color=03befc&hide_title=true&count_private=true)](https://github.com/Trymbakmahant) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trymbakmahant&theme=react&text_color=fff&border_color=03befc&layout=compact)](https://github.com/Trymbakmahant) 
+| ----------- | ------------ |
+
 
 # Github Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Trymbakmahant&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Trymbakmahant&theme=react)](https://git.io/streak-stats)
 
-# GitHub Medals:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Trymbakmahant)](https://github.com/ryo-ma/github-profile-trophy)
+
  <a href="https://github.com/Trymbakmahant/github-readme-activity-graph"><img alt="Trymbakmahant Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Trymbakmahant&theme=react-dark" /></a>
 </div>
