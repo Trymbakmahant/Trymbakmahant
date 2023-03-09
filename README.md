@@ -18,5 +18,5 @@
 
 # GitHub Medals:
 [![trophy](https://github-profile-trophy.vercel.app/?username=Trymbakmahant)](https://github.com/ryo-ma/github-profile-trophy)
- <a href="https://github.com/Trymbakmahant/github-readme-activity-graph"><img alt="Trymbakmahant Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Trymbakmahant&theme=tokyonight" /></a>
+ <a href="https://github.com/Trymbakmahant/github-readme-activity-graph"><img alt="Trymbakmahant Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Trymbakmahant&theme=react-dark" /></a>
 </div>
