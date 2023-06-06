@@ -11,7 +11,6 @@
 | ----------- | ------------ |
 
 
- <a href="https://github.com/Trymbakmahant/github-readme-activity-graph"><img alt="Trymbakmahant Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Trymbakmahant&theme=react-dark" /></a>
 </div>
 
 # Github Streak
