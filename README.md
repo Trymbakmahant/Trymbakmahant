@@ -1,71 +1,121 @@
-# Hi there 👋 I'm Trymbak Mahant
+<div align="center">
 
-🚀 Full Stack Developer | Blockchain Developer | Open Source Enthusiast
+# Hey 👋, I'm Trymbak Mahant
 
-I enjoy building scalable web applications and blockchain-based products with a focus on real-world use cases.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Blockchain+Developer;Building+Web3+%26+Real+World+Products;Always+Learning+New+Things" />
 
-* 🌱 Currently exploring **Ethereum, Solana, Sui and Privacy Technologies**
-* 💻 Building **Web3 & Full Stack Applications**
-* 📝 Interested in **Blockchain Infrastructure, Agentic AI and Decentralized Systems**
-* 🇮🇳 Based in India
+<br>
+
+<p>
+  <a href="https://twitter.com/TrymbakMahant">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Trymbakmahant&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
+
+```yaml
+name: Trymbak Mahant
+located_in: India 🇮🇳
+
+current_focus:
+  - Full Stack Development
+  - Blockchain Infrastructure
+  - Smart Contracts
+  - Privacy & ZK Technologies
+
+currently_learning:
+  - Sui Ecosystem
+  - Agentic AI
+  - Advanced Solidity
+
+fun_fact:
+  "I love building products that solve real-world problems."
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square\&logo=solidity)
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square\&logo=rust)
+<img src="https://skillicons.dev/icons?i=ts,js,solidity,rust,python" />
 
 ### Frontend
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square\&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square\&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square\&logo=tailwindcss)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square\&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square\&logo=mongodb)
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,supabase" />
 
 ### Blockchain
 
-![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=flat-square\&logo=ethereum)
-![Solana](https://img.shields.io/badge/-Solana-black?style=flat-square\&logo=solana)
-![Sui](https://img.shields.io/badge/-Sui-black?style=flat-square)
+<img src="https://skillicons.dev/icons?i=ethereum,solidity,rust" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trymbakmahant&show_icons=true&theme=react&hide_title=true&count_private=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trymbakmahant&layout=compact&theme=react" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Trymbakmahant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Trymbakmahant&theme=react" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trymbakmahant&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Trymbakmahant&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Trymbakmahant&theme=onedark&row=1&column=6" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Trymbakmahant&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-## 🌐 Connect with me
+## 🌌 Current Interests
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/TrymbakMahant)
+```text
+🌱 Blockchain Infrastructure
+⚡ Ethereum / Solana / Sui
+🔐 Privacy & Zero Knowledge Proofs
+🤖 Agentic AI
+🏗 Building products from idea to deployment
+```
 
-![](https://komarev.com/ghpvc/?username=Trymbakmahant\&label=Profile%20Views\&color=0e75b6\&style=flat)
+---
+
+## 📌 Featured Projects
+
+🔹 Agriculture Supply Chain on Blockchain
+🔹 Web3 Staking Platform
+🔹 AI-powered Applications
+🔹 Full Stack SaaS Products
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+
+</div>
