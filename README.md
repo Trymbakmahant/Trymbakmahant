@@ -28,4 +28,4 @@ B.Tech in Computer Science, O.P. Jindal University (2023)
 
 ## Contact
 
-Open to freelance work and collaboration, especially around Solana, privacy and ZK. Reach me at [portfolio]([https://trymbak.xyz](https://portfolio-pi-rose-12.vercel.app/)).
+Open to freelance work and collaboration, especially around Solana, privacy and ZK. Reach me at https://portfolio-pi-rose-12.vercel.app
