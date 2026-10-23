@@ -67,27 +67,11 @@
   </tr>
 </table>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
+<!-- Generated daily by .github/workflows/metrics.yml -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Trymbakmahant&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trymbakmahant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trymbakmahant&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trymbakmahant&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Trymbakmahant&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ---
